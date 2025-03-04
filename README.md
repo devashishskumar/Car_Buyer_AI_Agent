@@ -1,5 +1,3 @@
-Based on the contents of your car_buyer_agent_langgraph.ipynb notebook, here is a README.md file that outlines the purpose, setup instructions, and functionality of the project:
-
 # 🚗 Smart Car Buyer AI Agent  
 
 ## 📌 Overview  
